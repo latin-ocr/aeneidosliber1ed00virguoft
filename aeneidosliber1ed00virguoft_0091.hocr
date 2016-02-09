@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aeneidosliber1ed00virguoft_0091.png"; bbox 0 0 1687 2519; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1567 2519">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1567 2519">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1567 2519; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1567 2519; x_wconf 95' lang='lat' dir='ltr'>    </span> <span class='ocrx_word' id='word_1_2' title='bbox 1284 1617 1567 1673; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 157 1644 1445 1947">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 260 1644 1445 1830">
+     <span class='ocr_line' id='line_1_2' title="bbox 522 1644 1284 1698; baseline 0.003 -14"><span class='ocrx_word' id='word_1_3' title='bbox 522 1644 820 1697; x_wconf 54' lang='lat' dir='ltr'>Vergsslssus</span> <span class='ocrx_word' id='word_1_4' title='bbox 854 1646 1014 1698; x_wconf 65' lang='lat' dir='ltr'>Maro,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1057 1645 1284 1687; x_wconf 57' lang='lat' dir='ltr'>Publssus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 260 1703 1445 1764; baseline 0.003 -11"><span class='ocrx_word' id='word_1_6' title='bbox 260 1708 391 1758; x_wconf 56' lang='lat'>6803</span> <span class='ocrx_word' id='word_1_7' title='bbox 455 1718 458 1722; x_wconf 76' lang='grc'>’</span> <span class='ocrx_word' id='word_1_8' title='bbox 635 1703 881 1764; x_wconf 57' lang='lat' dir='ltr'>[aeneid.</span> <span class='ocrx_word' id='word_1_9' title='bbox 959 1712 1088 1754; x_wconf 71' lang='lat' dir='ltr'>Book</span> <span class='ocrx_word' id='word_1_10' title='bbox 1128 1712 1179 1756; x_wconf 73' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1258 1713 1445 1756; x_wconf 57' lang='lat' dir='ltr'><strong>Lassin.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 260 1776 682 1830; baseline 0.007 -15"><span class='ocrx_word' id='word_1_12' title='bbox 260 1776 420 1824; x_wconf 61' lang='lat' dir='ltr'>3215ss</span> <span class='ocrx_word' id='word_1_13' title='bbox 527 1776 682 1830; x_wconf 59' lang='lat'>1904]</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 158 1820 392 1890">
+     <span class='ocr_line' id='line_1_5' title="bbox 158 1820 392 1890; baseline 0.026 -6"><span class='ocrx_word' id='word_1_14' title='bbox 158 1820 160 1842; x_wconf 69' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 261 1842 392 1890; x_wconf 65' lang='lat'>1904</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 157 1927 159 1947">
+     <span class='ocr_line' id='line_1_6' title="bbox 157 1927 159 1947; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 157 1927 159 1947; x_wconf 67' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
